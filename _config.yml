@@ -103,3 +103,8 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Hexo-renderer-marked
+## Fix the issue of smartypants converting straight quote to curly quotes in mixed CJK text.
+marked:
+  smartypants: false

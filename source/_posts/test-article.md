@@ -1,8 +1,9 @@
 ---
 title: Test article
 date: 2026-11-10 04:56:31
-tags: [Hexo, NexT]
+tags: [Hexo, NexT, Markdown]
 categories: Tutorial
+lang: en
 ---
 
 # Complete Markdown Syntax Reference
