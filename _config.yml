@@ -106,5 +106,9 @@ deploy:
 
 # Hexo-renderer-marked
 ## Fix the issue of smartypants converting straight quote to curly quotes in mixed CJK text.
-marked:
-  smartypants: false
+# marked:
+#   smartypants: false
+
+markdown_it_plus:
+  rawLaTeX: true
+  typographer: false

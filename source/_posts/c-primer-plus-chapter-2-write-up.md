@@ -1,7 +1,7 @@
 ---
 title: "C Primer Plus: Chapter 2 Write-up"
 date: 2026-11-12 06:43:43
-tags: [C Primer Plus, Learning Nots, C Basics, Debugging]
+tags: [C Primer Plus, Learning Notes, C Basics, Debugging]
 categories: [C Programming]
 lang: en
 ---
